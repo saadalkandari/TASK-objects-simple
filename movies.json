@@ -1,0 +1,25 @@
+[
+    {
+         id: 1,
+         name: "Avatar", 
+         image: "https://i.pinimg.com/originals/e8/e7/a2/e8e7a2ab4bbd0a540d21dc52da2a540f.jpg",
+        rating: 9, 
+    },
+
+    {
+        id: 2,
+        name: "The Unforgivable",    
+        image: "https://images.fandango.com/ImageRenderer/820/0/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/226423/UNFORGIVABLE_Main_Vertical_27x40_RGB_EN-GB.jpg", 
+       rating: 8, 
+    
+    },
+
+    {
+        id: 3, 
+        name: "Morbius",
+        image: "https://media.news9live.com/h-upload/2021/12/06/89225-morbius.jpg",
+        rating: 7.5, 
+    },
+
+
+];
